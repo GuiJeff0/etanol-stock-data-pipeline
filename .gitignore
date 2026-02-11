@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Dados
+data/raw/
+data/processed/
+
+# Logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Docker
+*.env
+
+# Sistema
+.DS_Store
+Thumbs.db
